@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+tensorflow = "*"
+keras = "*"
+pydot-ng = "*"
+pydot = "*"
+graphviz = "*"
+numpy = "*"
+matplotlib = "*"
+pandas = "*"
+
+[requires]
+python_version = "3.6"
